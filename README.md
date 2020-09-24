@@ -1,5 +1,4 @@
 ### Hi there! 👋
-I'm 17 year old from Canada that is a self built Entrepreneur.\n
 I own and run [CentralVPS](https://centralvps.io) with a couple of friends.
 
 <p float="left">
